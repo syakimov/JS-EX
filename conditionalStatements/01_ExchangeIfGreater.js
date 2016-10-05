@@ -5,5 +5,5 @@
 // solution -> exercise immediately executable function
 
 (function(a, b) {
-  console.log(a > b ? `${b} ${a}` : `${a} ${b}`);
+    console.log(a > b ? `${b} ${a}` : `${a} ${b}`);
 }(3,5));
