@@ -1,5 +1,4 @@
 // how to create obj
-// not checked :(
 
 let Person = (function () {
     function Person(name, age) {
