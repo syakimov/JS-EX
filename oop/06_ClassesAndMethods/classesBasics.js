@@ -7,8 +7,6 @@ class Horse {
         this._furColor = furColor;
         this._age = age;
     }
-
-
 }
 
 // creates new obj and calls its constructor
