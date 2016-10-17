@@ -1,0 +1,26 @@
+{
+  "name": "js-homeworks",
+  "version": "1.0.0",
+  "description": "JS beginners and advanced problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syakimov/JS-EX.git"
+  },
+  "author": "Stefan Yakimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syakimov/JS-EX/issues"
+  },
+  "homepage": "https://github.com/syakimov/JS-EX#readme",
+  "devDependencies": {
+    "eslint": "^3.8.0",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  }
+}
