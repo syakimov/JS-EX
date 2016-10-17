@@ -11,4 +11,6 @@ function f() {
 
 console.log(f());         // [Function: sum]
 console.log(typeof f);    // function
+/* eslint-disable */
 console.log(f() == f());  // false -> because every time it is new f created
+/* eslint-enable */

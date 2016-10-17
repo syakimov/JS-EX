@@ -4,5 +4,11 @@
         "react",
         "jsx-a11y",
         "import"
-    ]
+    ],
+    "rules": {
+    "no-underscore-dangle": "off",
+    "no-param-reassign": ["error", { "props": false }],
+    "strict": "off",
+    "no-console": "off"
+  }
 }
